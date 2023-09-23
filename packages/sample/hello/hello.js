@@ -31,4 +31,4 @@ function main(args) {
 
   }
 
-const _main = main;
+exports.main = main;
